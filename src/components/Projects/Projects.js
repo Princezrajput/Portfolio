@@ -22,8 +22,8 @@ function Projects() {
             <ProjectCard
               imgPath={Seatsync}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              title="Seat-sync"
+              description="Seat-Sync is an online bus seat booking system built using the MERN stack. It allows users to view real-time seat availability, select preferred seats, and confirm bookings seamlessly, providing a smooth and efficient ticket reservation experience."
               ghLink="https://github.com/Princezrajput/Seat-sync"
             />
           </Col>
@@ -31,8 +31,8 @@ function Projects() {
             <ProjectCard
               imgPath={QuizApp}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              title="QUIZ APP"
+              description="Quiz App is an interactive web application built using React.js. It allows users to attempt quizzes with multiple-choice questions, receive instant feedback, and view their final scores, providing an engaging and user-friendly learning experience."
               ghLink="https://github.com/Princezrajput/Quiz_APP"
             />
           </Col>
@@ -41,9 +41,8 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              title="Fake Image Detection System"
+              description="Fake Image Detection System is a deep learning–based project designed to distinguish real images from AI-generated fake images. The system uses a hybrid architecture combining Convolutional Neural Networks (CNN), Self-Attention, and Graph Attention Networks (GAT) to detect subtle generative artifacts and structural inconsistencies present in synthetic images. Trained on datasets containing both real images and AI-generated images from models like Stable Diffusion, Midjourney, and StyleGAN, the project demonstrates the effectiveness of deep learning techniques in digital image forensics and content verification."
               ghLink=""
             />
           </Col>
